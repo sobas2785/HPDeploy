@@ -81,7 +81,7 @@ Project/
 
 ## Autor
 
-Pablo Gareis
+Sebastián Lopez 
 
 ## Aviso Legal
 
